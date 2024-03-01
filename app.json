@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "yolov5-tfjs-react-native",
-    "slug": "yolov5-tfjs-react-native",
+    "name": "yolov8-tfjs-react-native",
+    "slug": "yolov8-tfjs-react-native",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
